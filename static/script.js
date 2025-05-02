@@ -36,7 +36,7 @@ document.addEventListener("DOMContentLoaded", function () {
           <input type="text" name="dersler[${index}][adi1]" placeholder="Ders Adı" maxlength="40" class="w-full placeholder-textColor outline-0">
       </div>
       <button class="ders-cikar cursor-pointer p-2">
-          <img src="assets/icon/Vector.png" alt="">
+          <img src="static/assets/icon/Vector.png" alt="">
       </button>
     `;
 
@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", function () {
           <input type="text" name="dersler[${index}][grubu]" placeholder="Grup" maxlength="3" class="w-full placeholder-textColor outline-0">
       </div>
       <button class="cakisan-ders-cikar absolute right-2 p-2 cursor-pointer">
-          <img src="assets/icon/Vector.png" alt="">
+          <img src="static/assets/icon/Vector.png" alt="">
       </button>
     `;
 
